@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_SequenciaIJ2", "Des
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_VaiTerCopa", "Desafio_VaiTerCopa\Desafio_VaiTerCopa.csproj", "{232344DC-6D70-46D3-955A-3F2EB2A0A7C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_SucessorPar", "Desafio_SucessorPar\Desafio_SucessorPar.csproj", "{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{232344DC-6D70-46D3-955A-3F2EB2A0A7C6}.Release|x64.Build.0 = Release|Any CPU
 		{232344DC-6D70-46D3-955A-3F2EB2A0A7C6}.Release|x86.ActiveCfg = Release|Any CPU
 		{232344DC-6D70-46D3-955A-3F2EB2A0A7C6}.Release|x86.Build.0 = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|x64.Build.0 = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Debug|x86.Build.0 = Debug|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|x64.ActiveCfg = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|x64.Build.0 = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|x86.ActiveCfg = Release|Any CPU
+		{579B58CD-5CA4-4ED4-A913-F4FB58E2312C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
